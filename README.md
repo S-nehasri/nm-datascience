@@ -1,0 +1,2 @@
+# nm-datascience
+customer segmentation
